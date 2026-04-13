@@ -1,0 +1,3 @@
+[submodule "manhnd_sdk"]
+	path = manhnd_sdk
+	url = https://github.com/dmah289/manhnd_sdk.git
