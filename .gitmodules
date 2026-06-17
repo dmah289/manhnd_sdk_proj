@@ -1,6 +1,3 @@
-[submodule "Assets/manhnd_sdk"]
-	path = Assets/manhnd_sdk
-	url = https://github.com/dmah289/manhnd_sdk.git
 [submodule "Assets/Horcrux"]
 	path = Assets/Horcrux
 	url = https://github.com/dmah289/Horcrux.git
