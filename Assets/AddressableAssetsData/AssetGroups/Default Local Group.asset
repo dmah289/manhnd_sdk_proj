@@ -14,7 +14,17 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_GroupName: Default Local Group
   m_GUID: 72621e61e36f4384d84fe26e7d6d9f50
-  m_SerializeEntries: []
+  m_SerializeEntries:
+  - m_GUID: 1e5dc5c2ff6818644ac110927ef2ae73
+    m_Address: Assets/_Project/Prefabs/Cube.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ec2571cd8a90f8543afd4bff92f2b0af
+    m_Address: Assets/_Project/Prefabs/Sphere.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 9683e586f098d184e9f1bbc0868fab45, type: 2}
   m_SchemaSet:
